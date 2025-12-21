@@ -1,0 +1,21 @@
+LTspice 24.1.6 for Windows
+Circuit: Z:\home\jambrosio\Desktop\Estudos pessoais\Energy Harvesting\Energy Harvest.net
+Start Time: Fri Dec 12 11:06:15 2025
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = trap
+WARNING: Node n004 is floating.
+
+Direct Newton iteration for .op point succeeded.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.3899934437178576e-10 to 1.3899934537178575e-10 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.3899934737178574e-10 to 1.3899934837178573e-10 seconds.
+Singular matrix:  Check node m1#gate
+   Iteration No. 3
+Total elapsed time: 0.000 seconds.
+Singular matrix:  check node m1#gate
+   Iteration No. 3
+
+This circuit has floating nodes.
+Try menu command View=>SPICE Error Log.
